@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+}
+
+.maison{
+    background-color: white;
+    border: 10px solid;
+    border-color: gray;
+    display: flex;
+    justify-content: center;
+
+}
+
+.maison img{
+width: 100px;
+
+}
+
+.bg{
+    padding: 10px;
+    border-bottom: grey;
+    margin: 10px;
+    
+}
+
+.prairie{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arbre img{
+    width: 100%;
+    background-color: white;
+}
+
+.ble img{
+    width: 45%;
+}
+
+.arbre, .ble{
+    width: 25%;
+}

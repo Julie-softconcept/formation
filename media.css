@@ -1,0 +1,49 @@
+
+
+/* body{
+    background: url(images/chat.jpg) center center/cover;
+    height: 300px;
+}
+
+@media screen and (min-width: 800px) {
+    body{
+    background-image: url(images/chien.jpg);
+}
+ 
+} */
+
+/* img{
+    width: 75%;
+}
+
+@media screen and (min-width: 800px) {
+   img{
+    width: 50%;
+   }
+}
+
+@media screen and (max-width: 400px) {
+   img{
+    width: 25%;
+   }
+} */
+ 
+
+
+
+img{
+width: 24%;
+} 
+
+@media screen and (max-width: 800px) {
+   img{
+    width: 49%;
+   }
+}
+
+@media screen and (max-width: 400px) {
+   img{
+    width: 100%;
+   }
+}
+

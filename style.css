@@ -1,0 +1,84 @@
+h1{
+    color:#052149;
+    font-family:"Montserrat", sans-serif;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;-align: center;
+}
+
+h1:hover{
+    font-family: "Poppins", sans-serif;
+    color:#ef7f1b;
+    border: 2px solid #ef7f1b;
+}
+
+h2{
+    color:#ef7f1b;
+    font-family: "Montserrat", sans-serif;
+    font-size: 42px;
+}
+
+body {
+    background: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+}
+
+p{
+    color:black;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+}
+
+div{
+    background: url('images/chat-2.jpg')center center/cover;
+    height: 700px; 
+}
+
+a{
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    margin-right: 50px;
+    padding: 5px;
+}
+
+a:hover{
+    background-color: white;
+    color: black;
+}
+
+h4{
+   font-size: 32px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+img{
+    width:25%;
+}
+
+span{
+    color: brown;
+    font-size: 40;
+}
+
+.un{
+background-color: aqua;
+}
+
+.deux{
+    font-weight: bolder;
+}
+
+.trois{
+   background-color: #ef7f1b; 
+   font-weight: lighter;
+}
+
